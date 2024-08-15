@@ -15,6 +15,7 @@
 - **WordPress**: Plataforma de CMS.
 - **PHP**: Linguagem de programação.
 - **HTML/CSS**: Estrutura e estilo das páginas.
+- **MySQL**: Banco de Dados.
 
 ## Uso
 
